@@ -1,7 +1,5 @@
 import cv2
 from moviepy.editor import VideoFileClip
-from moviepy.video.fx.all import rotate
-import os
 
 video_input_path = input("(Ia| Mary Janne):Onde tá o video, Lindinho? ")
 
